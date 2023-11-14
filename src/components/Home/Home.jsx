@@ -3,7 +3,7 @@ import React from 'react';
 const Home = () => {
     return (
         <div>
-            <h2>Home</h2>
+            <h2 className='text-7xl text-center mt-4 '>Welcome to Firebase Authentication</h2>
         </div>
     );
 };
